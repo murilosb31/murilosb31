@@ -29,4 +29,4 @@ Desenvolvedor em formação, cursando Análise e Desenvolvimento de Sistemas na 
 
 ---
 
-📫 muri31102006@gmail.com · [LinkedIn](https://linkedin.com/in/murilo-soares-bezerra)
+📫 muri31102006@gmail.com · [LinkedIn](https://www.linkedin.com/in/murilo-soares-bezerra-249799350/)
