@@ -4,7 +4,7 @@ Estudante de ADS · Santos, SP
 
 ---
 
-Desenvolvedor em formação, cursando Análise e Desenvolvimento de Sistemas na UNISANTA. Focado em desenvolvimento web e back-end, com projetos práticos em JavaScript, C#, Node.js e Angular. Inglês avançado (B2/C1) e sempre buscando aprender novas tecnologias.
+Desenvolvedor em formação, cursando Análise e Desenvolvimento de Sistemas na UNISANTA. Focado em desenvolvimento web e back-end. Inglês avançado (B2/C1) e sempre buscando aprender novas tecnologias.
 
 ## 🛠 tecnologias
 
